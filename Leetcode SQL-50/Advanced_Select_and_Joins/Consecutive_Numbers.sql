@@ -4,4 +4,4 @@ and l1.id=l3.id+2 and l1.num= l3.num
 
 
 
---Rakshit Gupta
+
