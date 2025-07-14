@@ -6,4 +6,3 @@ where( product_id , change_date) in (select product_id , max(change_date) as pri
 
 
 
---Rakshit Gupta
