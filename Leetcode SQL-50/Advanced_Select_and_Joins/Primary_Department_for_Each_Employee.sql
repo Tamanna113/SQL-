@@ -8,5 +8,3 @@ WHERE primary_flag='Y' OR
     having count(employee_id)=1)
 
 
-
---Rakshit Gupta
